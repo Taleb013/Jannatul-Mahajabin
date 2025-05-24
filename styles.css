@@ -118,17 +118,18 @@ nav .resume-btn a:hover {
   transform: translateY(0);
 }
 
-#works .works-list {
+.education-list,
+.works-list {
   list-style: none;
   padding: 0;
 }
 
-#works .work-title {
+.work-title {
   font-weight: bold;
   font-size: 1.1rem;
 }
 
-#works .work-position {
+.work-position {
   font-style: italic;
   color: #555;
 }
